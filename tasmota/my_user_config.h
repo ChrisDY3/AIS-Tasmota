@@ -93,13 +93,13 @@
 
 // -- Ota -----------------------------------------
 #ifdef ESP8266
-#define OTA_URL                "http://ai-speaker.com/ota/dom/public_device.bin.gz"  // [OtaUrl]
+#define OTA_URL                "https://ai-speaker.com/ota/dom/public_device.bin.gz"  // [OtaUrl]
 #endif  // ESP8266
 #ifdef ESP32
 #ifdef CONFIG_IDF_TARGET_ESP32C3
-#define OTA_URL                "http://ai-speaker.com/ota/dom/public_device32.bin.gz"  // [OtaUrl]
+#define OTA_URL                "https://ai-speaker.com/ota/dom/public_device32.bin.gz"  // [OtaUrl]
 #else   // No CONFIG_IDF_TARGET_ESP32C3
-#define OTA_URL                "http://ai-speaker.com/ota/dom/public_device32.bin.gz"  // [OtaUrl]
+#define OTA_URL                "https://ai-speaker.com/ota/dom/public_device32.bin.gz"  // [OtaUrl]
 #endif  //  CONFIG_IDF_TARGET_ESP32C3
 #endif  // ESP32
 
