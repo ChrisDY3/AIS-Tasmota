@@ -711,7 +711,6 @@ jobs:
         path: ./build_output
 
   tasmota32-ais-ble:
-    needs: tasmota_pull
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
@@ -733,7 +732,6 @@ jobs:
         path: ./build_output
 
   tasmota32-ais-webcam:
-    needs: tasmota_pull
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
@@ -755,7 +753,6 @@ jobs:
         path: ./build_output
 
   tasmota32-ais-webcam-disp:
-    needs: tasmota_pull
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
