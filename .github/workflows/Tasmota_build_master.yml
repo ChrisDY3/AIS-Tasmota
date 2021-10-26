@@ -1415,7 +1415,7 @@ jobs:
       run: |
         git config --local user.name "rysiekstation"
         git config --local user.email "rysiekstation@gmail.com"
-        git rm -rf --cached .
+        # git rm -rf --cached .
         git add ./README.md
         git add -f ./firmware/*.*
         git commit -m "AIS-Tasmota ESP Binaries https://www.ai-speaker.com"
