@@ -6,7 +6,7 @@ Alternative firmware for [ESP8266](https://en.wikipedia.org/wiki/ESP8266) based 
 _Written for PlatformIO_
 
 
-# AIS-Tasmota is a AIS fork of Tasmota
+# AIS-Tasmota is a AIS fork of Tasmota.
 
 [![GitHub version](https://img.shields.io/github/release/arendst/Tasmota.svg)](http://ota.tasmota.com/tasmota/release)
 [![GitHub download](https://img.shields.io/github/downloads/arendst/Tasmota/total.svg)](https://github.com/arendst/Tasmota/releases/latest)
