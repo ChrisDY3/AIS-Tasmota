@@ -1709,6 +1709,7 @@ STITCH by Monoprice 35557  {"NAME":"Tuya WF15S ","GPIO":[255,255,0,0,255,255,0,0
 SUPLA inCan by Espablo   {"NAME":"Supla Espablo","GPIO":[0,255,4,255,17,21,0,0,255,22,255,0,52],"FLAG":1,"BASE":31}
 SW-R03                   {"NAME":"SW-R03","GPIO":[0,0,0,0,0,0,0,0,21,17,0,0,0],"FLAG":0,"BASE":18}
 TCP Smart 1 Gang         {"NAME":"TCP 1 Gang 1 Way","GPIO":[157,0,0,17,21,0,0,0,0,0,56,0,0],"FLAG":0,"BASE":18}
+TCP Smart 2 Gang         {"NAME":"TCP_2_GANG","GPIO":[544,0,288,0,0,33,0,0,32,225,0,224,289,1],"FLAG":0,"BASE":18}
 Teckin 2 Gang            {"NAME":"Teckin SR43","GPIO":[0,0,52,0,0,17,0,0,21,22,0,0,18],"FLAG":0,"BASE":18}
 Teckin SR-41 Single Pole  {"NAME":"Teckin SR-41","GPIO":[17,0,0,0,0,0,0,0,21,158,0,0,0],"FLAG":0,"BASE":18}
 Teekar 10 Way 1 Gang     {"NAME":"Teekar 10way","GPIO":[9,10,11,20,13,14,0,0,15,16,0,0,0],"FLAG":0,"BASE":18}
